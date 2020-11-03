@@ -1,0 +1,6 @@
+#Tue, 27 Oct 2020 09:45:20 -0600
+
+info.app.version=0.1
+info.app.name=appRest
+grails.env=development
+info.app.grailsVersion=3.3.11
